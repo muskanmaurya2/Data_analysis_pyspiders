@@ -1,0 +1,12 @@
+,Movie,rating,cast,Hotstar,Netflix,Language,Year
+0,titanic,5.0,"['ranbeer', 'sara']",1,1,English,2015
+1,avtaar,2.0,"['alia', 'vijay']",0,0,Hindi,2016
+2,The Lion King,0.0,['a-b'],1,0,English,2022
+3,The Amazing spider man,6.0,['c-d'],1,1,English,2021
+4,Monkey King,8.0,"['f', 'g']",1,1,English,2026
+5,Genius,2.0,"['d', 'e']",0,0,English,2025
+6,javaan,2.0,"['g', 'r']",0,0,Hindi,2008
+7,3 Idiot,2.0,"['e', 't']",1,1,Hindi,2012
+8,Chichore,0.0,"['t', 'a']",1,0,Hindi,2016
+9,Dil bechara,3.0,"['p', 'b']",1,yes,Hindi,2017
+10,Conjuring,8.0,"['z', 'y']",0,1,English,2024
